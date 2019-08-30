@@ -1,0 +1,7 @@
+C:\Users\Clarissa\Documents\Ciclo II-2019\Programación estructurada\Practicas Periodo 1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\Clarissa\Documents\Ciclo II-2019\Programación estructurada\Practicas Periodo 1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Clarissa\Documents\Ciclo II-2019\Programación estructurada\Practicas Periodo 1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\Clarissa\Documents\Ciclo II-2019\Programación estructurada\Practicas Periodo 1\Practica1\bin\Debug\Practica1.exe
+C:\Users\Clarissa\Documents\Ciclo II-2019\Programación estructurada\Practicas Periodo 1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\Clarissa\Documents\Ciclo II-2019\Programación estructurada\Practicas Periodo 1\Practica1\obj\Debug\Practica1.exe
+C:\Users\Clarissa\Documents\Ciclo II-2019\Programación estructurada\Practicas Periodo 1\Practica1\obj\Debug\Practica1.pdb
